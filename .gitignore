@@ -60,4 +60,4 @@ build/
 
 ## Directory-based project format:
 .idea/
-.vscode/
+config.bat
